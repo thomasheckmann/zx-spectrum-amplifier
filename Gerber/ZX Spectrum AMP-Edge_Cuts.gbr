@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.10*%
+%TF.CreationDate,2024-02-29T08:37:15+01:00*%
+%TF.ProjectId,ZX Spectrum AMP,5a582053-7065-4637-9472-756d20414d50,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.10) date 2024-02-29 08:37:15*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X27889200Y-34848800D02*
+X91118800Y-34848800D01*
+X91118800Y-85105200D01*
+X27889200Y-85105200D01*
+X27889200Y-34848800D01*
+M02*
