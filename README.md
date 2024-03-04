@@ -2,8 +2,7 @@
 DIY Amplifier from danish magazine for ZX Spectrum re-created in KiCad as close as possible to original design. This constructions was published in Ny Elektronik issue 3 in 1984.
 
 # Original construction
-Hello world
-
+This is the constructions as published in the magazine in 1984.
 <table>
   <tr>
     <td colspan="3" align="center"><img width="819" alt="image" src="https://github.com/thomasheckmann/zx-spectrum-amplifier/assets/14136378/c8b028a6-f614-44fc-b808-dd039d655ebb"></td>
@@ -20,3 +19,5 @@ Hello world
   </tr>
 </table>
 
+# Recreated construction
+The new PCB is adjusted to fit in a box of size 84mm X 56mm X 20mm. For example this enclosure box from [Hammond](https://www.hammfg.com/part/1591XXMGY)
