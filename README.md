@@ -31,7 +31,7 @@ The main goal was to get the schema redrawn in KiCad and a first try at a PCB, i
 First version of PBC was done by manually layout of tracks, according to the original component layouts from the magazine
 
 ## Second prototype
-As the first version worked perfektly, the main goal was to add relevant plugs for EAR and DC power and resize the board to fit in a suitable enclosure. I even had to create a new footprint for the DC plug, but than again - great learning.
+As the first version worked perfektly, the main goal was to add relevant plugs for EAR and DC power and resize the board to fit in a suitable enclosure. I even had to create a new footprint for the DC plug, but than again - great learning. Also a small trimmer-pot has been added, in order to be able to recude the noise that is generated in general - it can be skipped and replaced with a small wire, if you wish.
 
 <img width="724" alt="image" src="https://github.com/thomasheckmann/zx-spectrum-amplifier/assets/14136378/e7768d3b-d412-4ba7-94bc-38c5fd2ee56a">
 
