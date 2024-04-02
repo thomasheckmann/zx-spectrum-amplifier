@@ -49,4 +49,14 @@ And this is how the final product turned out, fitting nicely in a standard enclo
 | --------- | --------- | ------ |
 |![image](https://github.com/thomasheckmann/zx-spectrum-amplifier/assets/14136378/b404ea4e-6fa8-45e9-8f0e-fbd6b61f0e00)|![image](https://github.com/thomasheckmann/zx-spectrum-amplifier/assets/14136378/f79686ca-f3d1-44c9-8ffc-d82451089769)|![image](https://github.com/thomasheckmann/zx-spectrum-amplifier/assets/14136378/be5f1a32-ab3d-495d-b7dd-aa288282ba44)
 
-
+## BOM
+You will need the following componets:
+* R1 - 10 Ohm 1/4W
+* P1 - 4,7 kOhm Potentiometer, logarithmic mono
+* C1 - 4,7 nF - ceramic
+* C2 - 22 uF/16V - electrolytic
+* C3 - 22 uF/16V - electrolytic
+* C4 100 uF/16V - electrolytic
+* C5 0,1 uF/35V tantalum
+* IC1 - LM386N
+* Speaker 8 Ohm, pin headers, DC and Minijack plugs
