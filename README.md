@@ -59,4 +59,5 @@ You will need the following componets:
 * C4 100 uF/16V - electrolytic
 * C5 0,1 uF/35V tantalum
 * IC1 - LM386N
+* Trimmer Top Adjust P5/10 50K (Optional)
 * Speaker 8 Ohm, pin headers, DC and Minijack plugs
